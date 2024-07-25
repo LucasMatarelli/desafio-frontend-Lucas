@@ -1,5 +1,7 @@
 # Desafio Frontend
 
+## Nome: Lucas Soares Matarelli
+
 ## Descrição do Projeto
 
 Este projeto é uma aplicação React desenvolvida como parte do desafio de frontend. A aplicação permite listar heróis, filtrar heróis por nome e comparar dois heróis para exibir um vencedor com base em seus atributos.
