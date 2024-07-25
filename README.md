@@ -29,5 +29,5 @@ Antes de começar, certifique-se de ter o [Node.js](https://nodejs.org/) e o [np
 
 ## Comandos:
 
-   npm install
-   npm install axios @mui/material @emotion/react @emotion/styled zustand tailwindcss
+   -npm install
+   -npm install axios @mui/material @emotion/react @emotion/styled zustand tailwindcss
