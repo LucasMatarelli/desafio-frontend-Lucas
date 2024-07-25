@@ -23,11 +23,11 @@ Este projeto é uma aplicação React desenvolvida como parte do desafio de fron
 
 Antes de começar, certifique-se de ter o [Node.js](https://nodejs.org/) e o [npm](https://www.npmjs.com/) instalados no seu sistema.
 
- ## Clone o repositório:
+## Clone o repositório:
 
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone: https://github.com/LucasMatarelli/desafio-frontend-Lucas.git
 
-   cd seu-repositorio
+## Comandos:
+
    npm install
    npm install axios @mui/material @emotion/react @emotion/styled zustand tailwindcss
