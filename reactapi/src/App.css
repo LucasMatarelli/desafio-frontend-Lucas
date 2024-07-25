@@ -1,0 +1,84 @@
+
+.Global {
+  background-color: #202020;
+  padding-top: 80px; 
+}
+
+.search {
+  background-color: gray;
+  width: calc(100vw - 40px);
+  padding: 10px 20px; 
+  position: fixed;
+  top: 0;
+  left: 0px; 
+  z-index: 1000;
+}
+
+.App {
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center; 
+  gap: 20px; 
+  padding: 20px;
+  margin-top: 80px; 
+}
+
+.listazinha {
+  text-align: center;
+  width: 150px; 
+  margin: 0; 
+}
+
+.listazinha img {
+  width: 100%; 
+  height: auto; 
+}
+
+.listazinha Button {
+  margin-top: 10px; 
+}
+
+.comparison-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.8);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.comparison {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  border-radius: 10px;
+  position: relative;
+}
+
+.character {
+  text-align: center;
+}
+
+.winner {
+  text-align: center;
+  margin: 0 20px;
+}
+
+.close-btn {
+  position: absolute;
+  top: 10%;
+  left: 42%;
+  transform: translate(-10%, -42%);
+  background: none;
+  border: none;
+  color: rgb(165, 165, 165);
+  font-size: 24px;
+  cursor: pointer;
+}
